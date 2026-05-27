@@ -17,7 +17,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Harmonic Haven</h1>
+      <h1>Eli</h1>
       {tracks.length === 0 ? (
         <p>No tracks in playlist</p>
       ) : (
